@@ -15,4 +15,7 @@
 - Led the UI/UX design for multiple insure-tech apps for Android & iOS, increasing user engagement by 25%.
 - Revamped the company's website, impacting 10,000+ customers.
 
-[Back to Home](Index.markdown)
+[About me](index) | 
+[Employment](employment) | 
+[Education](education) | 
+[Contact](contact)

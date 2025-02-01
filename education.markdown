@@ -6,8 +6,6 @@
 | **Postgraduate Certificate in Web Development** | Humber College, Canada | 2025 |
 | **Bachelor's in Industrial and Product Design** | GLS Institute of Design, India | 2022 |
 
-[Back to Home](Index.markdown)
-
 [About me](index) | 
 [Employment](employment) | 
 [Education](education) | 

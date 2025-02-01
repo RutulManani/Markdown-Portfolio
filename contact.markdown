@@ -6,4 +6,7 @@ You can connect with me through my online platforms:
 - **LinkedIn:** [linkedin.com/in/rutul-manani](https://linkedin.com/in/rutul-manani/)
 - **GitHub:** [github.com/rutulmanani](https://github.com/rutulmanani)
 
-[Back to Home](Index.markdown)
+[About me](index) | 
+[Employment](employment) | 
+[Education](education) | 
+[Contact](contact)

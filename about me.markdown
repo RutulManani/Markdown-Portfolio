@@ -4,11 +4,12 @@ I am a **UI/UX Designer** with experience in industries like healthcare, finance
 Currently, I am pursuing a **Postgraduate Certificate in User Experience Design** at Humber College.
 
 ## Skills:
-- User Experience Design
-- Interaction Design
-- UX Research & Usability Testing
-- Wireframing & Prototyping
-- Web Development (HTML, CSS, JavaScript, C#)
-- Design Tools: Figma, Adobe Creative Suite, Framer
+1. **User Research & Usability Testing**
+2. **Wireframing & Prototyping**
+3. **Web Development** (HTML, CSS, JavaScript, React)
+4. **Design Tools**: Figma, Adobe Creative Suite, Framer
 
-[Back to Home](Index.markdown)
+[About me](index) | 
+[Employment](employment) | 
+[Education](education) | 
+[Contact](contact)
