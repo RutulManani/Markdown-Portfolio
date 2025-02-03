@@ -15,7 +15,7 @@ Currently, I am pursuing a **Postgraduate Certificate in User Experience Design*
 > Ensure all images are placed in the `assets/` folder and referenced correctly for them to display on GitHub Pages. Also, use absolute links if necessary.
 
 > This repo is available to view at:  
-> [https://rutulmanani.github.io/markdown-portfolio/](https://rutulmanani.github.io/markdown-portfolio/).
+> [https://rutulmanani.github.io/markdown-portfolio/](https://rutulmanani.github.io/Markdown-Portfolio/index).
 
 [About me](index) | 
 [Employment](employment) | 
